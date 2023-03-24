@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:layoutDirection="ltr">
+
+
+    <ImageView
+        android:id="@+id/iv_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/_10sdp"
+        android:adjustViewBounds="true"
+        android:visibility="gone"
+      />
+
+    <VideoView
+        android:id="@+id/vv_video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/backIV"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:tint="@color/white"
+        android:src="@drawable/baseline_arrow_back_24"
+        android:padding="@dimen/_7sdp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:layout_marginBottom="@dimen/_30sdp"
+        android:gravity="right|center_vertical|center_horizontal|center"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:id="@+id/shareIV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                android:id="@+id/share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|end"
+                android:text="@string/share"
+                app:icon="@drawable/baseline_share_24"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/repostIV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                android:id="@+id/repost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|end"
+                android:text="@string/repost"
+                app:icon="@drawable/ic_whatsapp_svgrepo_com"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
