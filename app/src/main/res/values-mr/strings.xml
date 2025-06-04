@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">स्टेटस</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">पुढे जाण्यासाठी आमच्या सेवा अटी आणि गोपनीयता धोरण वाचा आणि मान्य करा.</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>सेवा अटी</u></i> आणि <i><u>गोपनीयता धोरण</u></i> ब्राउझ करा</string>
+    <string name="agree">मान्य</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="about">बद्दल</string>
+    <string name="privacy_policy">गोपनीयता धोरण</string>
+    <string name="feedback">अभिप्राय</string>
+    <string name="disclaimer">अस्वीकरण</string>
+    <string name="close">बंद करा</string>
+    <string name="summary_close">तुम्हाला खरोखर अॅप्लिकेशनमधून बाहेर पडायचे आहे का?</string>
+    <string name="saved_status">जतन केलेले स्टेटस</string>
+    <string name="help">कसे वापरायचे?</string>
+    <string name="whatsapp">व्हाट्सअॅप</string>
+    <string name="whatsapp_business">व्हाट्सअॅप बिझनेस</string>
+    <string name="save">जतन करा</string>
+    <string name="share">शेअर करा</string>
+    <string name="delete">हटवा</string>
+    <string name="repost">रीपोस्ट</string>
+    <string name="no_data_error">अजून कोणतेही चित्र सापडले नाहीत!</string>
+    <string name="send">पाठवा</string>
+    <string name="how_to_use">कसे वापरायचे?</string>
+    <string name="step1">पाऊल १</string>
+    <string name="summary_first_step">व्हाट्सअॅप अॅप उघडा.</string>
+    <string name="step2">पाऊल २</string>
+    <string name="summary_second_step">तुमच्या व्हाट्सअॅप कॉन्टॅक्टचे स्टेटस अपडेट पहा.</string>
+    <string name="step3">पाऊल ३</string>
+    <string name="summary_third_step">व्हाट्सअॅपसाठी स्टेटस सेव्हर अॅपवर परत या, आणि सर्व पाहिलेले स्टेटस दिसतील.</string>
+    <string name="step4">पाऊल ४</string>
+    <string name="summary_fourth_step">कोणताही स्टेटस जतन करण्यासाठी डाउनलोड बटण किंवा आयकॉनवर क्लिक करा.</string>
+    <string name="step5">पाऊल ५</string>
+    <string name="summary_fifth_step">तुम्ही जतन केलेले स्टेटस इतर सोशल मीडिया प्लॅटफॉर्मवर देखील शेअर करू शकता.</string>
+    <string name="rate_us">आम्हाला रेट करा</string>
+</resources>

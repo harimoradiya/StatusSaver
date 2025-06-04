@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Trạng thái</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Vui lòng đọc và chấp nhận Điều khoản Dịch vụ và Chính sách Quyền riêng tư của chúng tôi để tiếp tục.</string>
+    <string name="browse_terms_of_service_and_privacy_policy">Xem <i><u>Điều khoản Dịch vụ</u></i> và <i><u>Chính sách Quyền riêng tư</u></i></string>
+    <string name="agree">Đồng ý</string>
+    <string name="settings">Cài đặt</string>
+    <string name="about">Giới thiệu</string>
+    <string name="privacy_policy">Chính sách Quyền riêng tư</string>
+    <string name="feedback">Phản hồi</string>
+    <string name="disclaimer">Tuyên bố miễn trừ</string>
+    <string name="close">Đóng</string>
+    <string name="summary_close">Bạn có chắc chắn muốn thoát ứng dụng?</string>
+    <string name="saved_status">Trạng thái đã lưu</string>
+    <string name="help">Cách sử dụng?</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="save">Lưu</string>
+    <string name="share">Chia sẻ</string>
+    <string name="delete">Xóa</string>
+    <string name="repost">Đăng lại</string>
+    <string name="no_data_error">Chưa tìm thấy hình ảnh nào!</string>
+    <string name="send">Gửi</string>
+    <string name="how_to_use">Cách sử dụng?</string>
+    <string name="step1">Bước 1</string>
+    <string name="summary_first_step">Mở ứng dụng WhatsApp.</string>
+    <string name="step2">Bước 2</string>
+    <string name="summary_second_step">Xem cập nhật trạng thái của các liên hệ WhatsApp của bạn.</string>
+    <string name="step3">Bước 3</string>
+    <string name="summary_third_step">Quay lại ứng dụng Status Saver for WhatsApp, tất cả trạng thái đã xem sẽ được hiển thị.</string>
+    <string name="step4">Bước 4</string>
+    <string name="summary_fourth_step">Nhấn vào nút hoặc biểu tượng tải xuống để lưu bất kỳ trạng thái nào bạn muốn.</string>
+    <string name="step5">Bước 5</string>
+    <string name="summary_fifth_step">Bạn cũng có thể chia sẻ trạng thái đã lưu trên các nền tảng mạng xã hội khác.</string>
+    <string name="rate_us">Đánh giá chúng tôi</string>
+</resources>

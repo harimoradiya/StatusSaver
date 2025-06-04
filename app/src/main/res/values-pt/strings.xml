@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Status</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Leia e aceite nossos Termos de Serviço e Política de Privacidade para continuar.</string>
+    <string name="browse_terms_of_service_and_privacy_policy">Navegue pelos <i><u>Termos de Serviço</u></i> e <i><u>Política de Privacidade</u></i></string>
+    <string name="agree">Concordo</string>
+    <string name="settings">Configurações</string>
+    <string name="about">Sobre</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="feedback">Feedback</string>
+    <string name="disclaimer">Aviso Legal</string>
+    <string name="close">Fechar</string>
+    <string name="summary_close">Tem certeza que deseja sair do aplicativo?</string>
+    <string name="saved_status">Status Salvos</string>
+    <string name="help">Como usar?</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="save">Salvar</string>
+    <string name="share">Compartilhar</string>
+    <string name="delete">Excluir</string>
+    <string name="repost">Repostar</string>
+    <string name="no_data_error">Nenhuma imagem encontrada até agora!</string>
+    <string name="send">Enviar</string>
+    <string name="how_to_use">Como usar?</string>
+    <string name="step1">Passo 1</string>
+    <string name="summary_first_step">Abra o aplicativo WhatsApp.</string>
+    <string name="step2">Passo 2</string>
+    <string name="summary_second_step">Visualize as atualizações de status dos seus contatos do WhatsApp.</string>
+    <string name="step3">Passo 3</string>
+    <string name="summary_third_step">Volte para o aplicativo Status Saver para WhatsApp, e todos os status visualizados serão exibidos.</string>
+    <string name="step4">Passo 4</string>
+    <string name="summary_fourth_step">Toque no botão ou ícone de download para salvar qualquer status que desejar.</string>
+    <string name="step5">Passo 5</string>
+    <string name="summary_fifth_step">Você também pode compartilhar o status salvo em outras plataformas de mídia social.</string>
+    <string name="rate_us">Avalie-nos</string>
+</resources>

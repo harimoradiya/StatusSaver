@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Status</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Lees en accepteer onze Servicevoorwaarden en Privacybeleid om door te gaan.</string>
+    <string name="browse_terms_of_service_and_privacy_policy">Bekijk <i><u>Servicevoorwaarden</u></i> en <i><u>Privacybeleid</u></i></string>
+    <string name="agree">Akkoord</string>
+    <string name="settings">Instellingen</string>
+    <string name="about">Over</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="feedback">Feedback</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="close">Sluiten</string>
+    <string name="summary_close">Weet je zeker dat je de app wilt afsluiten?</string>
+    <string name="saved_status">Opgeslagen Statussen</string>
+    <string name="help">Hoe te gebruiken?</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="save">Opslaan</string>
+    <string name="share">Delen</string>
+    <string name="delete">Verwijderen</string>
+    <string name="repost">Opnieuw plaatsen</string>
+    <string name="no_data_error">Nog geen afbeeldingen gevonden!</string>
+    <string name="send">Verzenden</string>
+    <string name="how_to_use">Hoe te gebruiken?</string>
+    <string name="step1">Stap 1</string>
+    <string name="summary_first_step">Open de WhatsApp-app.</string>
+    <string name="step2">Stap 2</string>
+    <string name="summary_second_step">Bekijk de statusupdates van je WhatsApp-contacten.</string>
+    <string name="step3">Stap 3</string>
+    <string name="summary_third_step">Ga terug naar de Status Saver for WhatsApp-app, alle bekeken statussen worden weergegeven.</string>
+    <string name="step4">Stap 4</string>
+    <string name="summary_fourth_step">Tik op de downloadknop of het downloadpictogram om een gewenste status op te slaan.</string>
+    <string name="step5">Stap 5</string>
+    <string name="summary_fifth_step">Je kunt de opgeslagen status ook delen op andere sociale mediaplatforms.</string>
+    <string name="rate_us">Beoordeel ons</string>
+</resources>

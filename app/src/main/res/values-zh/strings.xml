@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">状态</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">请阅读并同意我们的服务条款和隐私政策以继续。</string>
+    <string name="browse_terms_of_service_and_privacy_policy">浏览<i><u>服务条款</u></i>和<i><u>隐私政策</u></i></string>
+    <string name="agree">同意</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="feedback">反馈</string>
+    <string name="disclaimer">免责声明</string>
+    <string name="close">关闭</string>
+    <string name="summary_close">您确定要退出应用程序吗？</string>
+    <string name="saved_status">已保存的状态</string>
+    <string name="help">如何使用？</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp商业版</string>
+    <string name="save">保存</string>
+    <string name="share">分享</string>
+    <string name="delete">删除</string>
+    <string name="repost">转发</string>
+    <string name="no_data_error">还没有找到任何图片！</string>
+    <string name="send">发送</string>
+    <string name="how_to_use">如何使用？</string>
+    <string name="step1">步骤1</string>
+    <string name="summary_first_step">打开WhatsApp应用。</string>
+    <string name="step2">步骤2</string>
+    <string name="summary_second_step">查看您的WhatsApp联系人的状态更新。</string>
+    <string name="step3">步骤3</string>
+    <string name="summary_third_step">返回WhatsApp状态保存器应用，所有查看过的状态都会显示出来。</string>
+    <string name="step4">步骤4</string>
+    <string name="summary_fourth_step">点击下载按钮或图标以保存任何您想要的状态。</string>
+    <string name="step5">步骤5</string>
+    <string name="summary_fifth_step">您还可以在其他社交媒体平台上分享已保存的状态。</string>
+    <string name="rate_us">为我们评分</string>
+</resources>
