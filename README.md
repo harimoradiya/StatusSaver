@@ -43,7 +43,7 @@ To get started with Status Saver, follow these simple steps:
 
 | Home Screen | Status View | Direct Chat |
 |-------------|-------------|-------------|
-| ![Home Screen](screenshot_home.png) | ![Status View](screenshot_status.png) | ![Direct Chat](screenshot_chat.png) |
+| ![Home Screen](Screenshot_20230325_134737.png) | ![Status View](Screenshot_20230325_134913.png) | ![Direct Chat](Screenshot_20230325_135104.png) |
 
 ## Contributing
 
