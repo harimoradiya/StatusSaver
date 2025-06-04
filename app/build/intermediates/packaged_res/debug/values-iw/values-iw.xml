@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">אודות</string>
+    <string name="agree">מסכים/ה</string>
+    <string name="browse_terms_of_service_and_privacy_policy">עיין/י ב<i><u>תנאי השירות</u></i> ו<i><u>מדיניות הפרטיות</u></i></string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">אנא קרא/י והסכם/י לתנאי השירות ומדיניות הפרטיות שלנו כדי להמשיך.</string>
+    <string name="close">סגור</string>
+    <string name="delete">מחק</string>
+    <string name="disclaimer">כתב ויתור</string>
+    <string name="feedback">משוב</string>
+    <string name="help">איך משתמשים?</string>
+    <string name="home">סטטוס</string>
+    <string name="how_to_use">איך משתמשים?</string>
+    <string name="no_data_error">עדיין לא נמצאו תמונות!</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="rate_us">דרג/י אותנו</string>
+    <string name="repost">פרסם מחדש</string>
+    <string name="save">שמור</string>
+    <string name="saved_status">סטטוסים שמורים</string>
+    <string name="send">שלח</string>
+    <string name="settings">הגדרות</string>
+    <string name="share">שתף</string>
+    <string name="step1">שלב 1</string>
+    <string name="step2">שלב 2</string>
+    <string name="step3">שלב 3</string>
+    <string name="step4">שלב 4</string>
+    <string name="step5">שלב 5</string>
+    <string name="summary_close">האם את/ה בטוח/ה שברצונך לצאת מהאפליקציה?</string>
+    <string name="summary_fifth_step">תוכל/י גם לשתף את הסטטוס השמור בפלטפורמות מדיה חברתית אחרות.</string>
+    <string name="summary_first_step">פתח/י את אפליקציית וואטסאפ.</string>
+    <string name="summary_fourth_step">הקש/י על כפתור או סמל ההורדה כדי לשמור כל סטטוס שתרצה/י.</string>
+    <string name="summary_second_step">צפה/י בעדכוני הסטטוס של אנשי הקשר שלך בוואטסאפ.</string>
+    <string name="summary_third_step">חזור/י לאפליקציית Status Saver for WhatsApp, וכל הסטטוסים שצפית בהם יוצגו.</string>
+    <string name="whatsapp">וואטסאפ</string>
+    <string name="whatsapp_business">וואטסאפ עסקי</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.shimmer.ShimmerFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginVertical="3dp"
+    android:layout_marginHorizontal="3dp">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="6dp"
+        style="@style/Widget.Material3.CardView.Filled">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!-- Shimmer for ImageView -->
+            <com.facebook.shimmer.ShimmerFrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#E0E0E0" />
+            </com.facebook.shimmer.ShimmerFrameLayout>
+
+            <!-- Shimmer for Play button -->
+            <com.facebook.shimmer.ShimmerFrameLayout
+                android:id="@+id/shimmer_play_button"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent">
+
+                <View
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="#E0E0E0"
+                    android:layout_gravity="center" />
+            </com.facebook.shimmer.ShimmerFrameLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</com.facebook.shimmer.ShimmerFrameLayout>

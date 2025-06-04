@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">เกี่ยวกับ</string>
+    <string name="agree">ยอมรับ</string>
+    <string name="browse_terms_of_service_and_privacy_policy">ดู<i><u>ข้อกำหนดการให้บริการ</u></i>และ<i><u>นโยบายความเป็นส่วนตัว</u></i></string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">โปรดอ่านและยอมรับข้อกำหนดการให้บริการและนโยบายความเป็นส่วนตัวของเราเพื่อดำเนินการต่อ</string>
+    <string name="close">ปิด</string>
+    <string name="delete">ลบ</string>
+    <string name="disclaimer">ข้อจำกัดความรับผิดชอบ</string>
+    <string name="feedback">ข้อเสนอแนะ</string>
+    <string name="help">วิธีใช้งาน?</string>
+    <string name="home">สถานะ</string>
+    <string name="how_to_use">วิธีใช้งาน?</string>
+    <string name="no_data_error">ยังไม่พบรูปภาพ!</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="rate_us">ให้คะแนนเรา</string>
+    <string name="repost">โพสต์ซ้ำ</string>
+    <string name="save">บันทึก</string>
+    <string name="saved_status">สถานะที่บันทึกไว้</string>
+    <string name="send">ส่ง</string>
+    <string name="settings">การตั้งค่า</string>
+    <string name="share">แชร์</string>
+    <string name="step1">ขั้นตอนที่ 1</string>
+    <string name="step2">ขั้นตอนที่ 2</string>
+    <string name="step3">ขั้นตอนที่ 3</string>
+    <string name="step4">ขั้นตอนที่ 4</string>
+    <string name="step5">ขั้นตอนที่ 5</string>
+    <string name="summary_close">คุณแน่ใจหรือไม่ว่าต้องการออกจากแอป?</string>
+    <string name="summary_fifth_step">คุณยังสามารถแชร์สถานะที่บันทึกไว้บนแพลตฟอร์มโซเชียลมีเดียอื่นๆ ได้</string>
+    <string name="summary_first_step">เปิดแอป WhatsApp</string>
+    <string name="summary_fourth_step">แตะที่ปุ่มหรือไอคอนดาวน์โหลดเพื่อบันทึกสถานะที่คุณต้องการ</string>
+    <string name="summary_second_step">ดูการอัปเดตสถานะของรายชื่อติดต่อ WhatsApp ของคุณ</string>
+    <string name="summary_third_step">กลับมาที่แอป Status Saver for WhatsApp สถานะทั้งหมดที่คุณดูจะแสดงขึ้น</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+</resources>

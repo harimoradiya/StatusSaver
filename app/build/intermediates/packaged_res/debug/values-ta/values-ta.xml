@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">பற்றி</string>
+    <string name="agree">ஒப்புக்கொள்கிறேன்</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>சேவை விதிமுறைகள்</u></i> மற்றும் <i><u>தனியுரிமைக் கொள்கை</u></i> ஐப் பார்க்கவும்</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">தொடர எங்கள் சேவை விதிமுறைகள் மற்றும் தனியுரிமைக் கொள்கையைப் படித்து ஒப்புக்கொள்ளவும்.</string>
+    <string name="close">மூடு</string>
+    <string name="delete">நீக்கு</string>
+    <string name="disclaimer">பொறுப்புத் துறப்பு</string>
+    <string name="feedback">கருத்து</string>
+    <string name="help">எப்படி பயன்படுத்துவது?</string>
+    <string name="home">நிலை</string>
+    <string name="how_to_use">எப்படி பயன்படுத்துவது?</string>
+    <string name="no_data_error">இதுவரை படங்கள் எதுவும் கிடைக்கவில்லை!</string>
+    <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="rate_us">எங்களை மதிப்பிடுங்கள்</string>
+    <string name="repost">மீண்டும் பதிவிடு</string>
+    <string name="save">சேமி</string>
+    <string name="saved_status">சேமித்த நிலைகள்</string>
+    <string name="send">அனுப்பு</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="share">பகிர்</string>
+    <string name="step1">படி 1</string>
+    <string name="step2">படி 2</string>
+    <string name="step3">படி 3</string>
+    <string name="step4">படி 4</string>
+    <string name="step5">படி 5</string>
+    <string name="summary_close">நீங்கள் நிச்சயமாக பயன்பாட்டிலிருந்து வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="summary_fifth_step">நீங்கள் சேமித்த நிலையை பிற சமூக ஊடக தளங்களிலும் பகிரலாம்.</string>
+    <string name="summary_first_step">வாட்ஸ்அப் பயன்பாட்டைத் திறக்கவும்.</string>
+    <string name="summary_fourth_step">எந்த நிலையையும் சேமிக்க பதிவிறக்க பொத்தான் அல்லது ஐகானைக் கிளிக் செய்யவும்.</string>
+    <string name="summary_second_step">உங்கள் வாட்ஸ்அப் தொடர்புகளின் நிலை புதுப்பிப்புகளைப் பார்க்கவும்.</string>
+    <string name="summary_third_step">வாட்ஸ்அப்பிற்கான நிலை சேவர் பயன்பாட்டிற்குத் திரும்பி வந்து, பார்த்த அனைத்து நிலைகளும் காட்டப்படும்.</string>
+    <string name="whatsapp">வாட்ஸ்அப்</string>
+    <string name="whatsapp_business">வாட்ஸ்அப் பிசினஸ்</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">О приложении</string>
+    <string name="agree">Принять</string>
+    <string name="browse_terms_of_service_and_privacy_policy">Просмотрите <i><u>Условия использования</u></i> и <i><u>Политику конфиденциальности</u></i></string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Прочтите и примите наши Условия использования и Политику конфиденциальности, чтобы продолжить.</string>
+    <string name="close">Закрыть</string>
+    <string name="delete">Удалить</string>
+    <string name="disclaimer">Отказ от ответственности</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="help">Как использовать?</string>
+    <string name="home">Статус</string>
+    <string name="how_to_use">Как использовать?</string>
+    <string name="no_data_error">Изображения пока не найдены!</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="rate_us">Оцените нас</string>
+    <string name="repost">Репост</string>
+    <string name="save">Сохранить</string>
+    <string name="saved_status">Сохраненные статусы</string>
+    <string name="send">Отправить</string>
+    <string name="settings">Настройки</string>
+    <string name="share">Поделиться</string>
+    <string name="step1">Шаг 1</string>
+    <string name="step2">Шаг 2</string>
+    <string name="step3">Шаг 3</string>
+    <string name="step4">Шаг 4</string>
+    <string name="step5">Шаг 5</string>
+    <string name="summary_close">Вы действительно хотите выйти из приложения?</string>
+    <string name="summary_fifth_step">Вы также можете поделиться сохраненным статусом в других социальных сетях.</string>
+    <string name="summary_first_step">Откройте приложение WhatsApp.</string>
+    <string name="summary_fourth_step">Нажмите на кнопку или значок загрузки, чтобы сохранить любой понравившийся статус.</string>
+    <string name="summary_second_step">Просмотрите обновления статусов ваших контактов WhatsApp.</string>
+    <string name="summary_third_step">Вернитесь в приложение Status Saver для WhatsApp, и все просмотренные статусы будут отображены.</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+</resources>

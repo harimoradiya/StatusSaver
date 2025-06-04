@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Σχετικά</string>
+    <string name="agree">Αποδοχή</string>
+    <string name="browse_terms_of_service_and_privacy_policy">Δείτε τους <i><u>Όρους Χρήσης</u></i> και την <i><u>Πολιτική Απορρήτου</u></i></string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Διαβάστε και αποδεχτείτε τους Όρους Χρήσης και την Πολιτική Απορρήτου μας για να συνεχίσετε.</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="disclaimer">Αποποίηση Ευθυνών</string>
+    <string name="feedback">Σχόλια</string>
+    <string name="help">Πώς χρησιμοποιείται;</string>
+    <string name="home">Κατάσταση</string>
+    <string name="how_to_use">Πώς χρησιμοποιείται;</string>
+    <string name="no_data_error">Δεν βρέθηκαν εικόνες ακόμα!</string>
+    <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="rate_us">Αξιολογήστε μας</string>
+    <string name="repost">Επαναδημοσίευση</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="saved_status">Αποθηκευμένες Καταστάσεις</string>
+    <string name="send">Αποστολή</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="share">Κοινοποίηση</string>
+    <string name="step1">Βήμα 1</string>
+    <string name="step2">Βήμα 2</string>
+    <string name="step3">Βήμα 3</string>
+    <string name="step4">Βήμα 4</string>
+    <string name="step5">Βήμα 5</string>
+    <string name="summary_close">Είστε βέβαιοι ότι θέλετε να κλείσετε την εφαρμογή;</string>
+    <string name="summary_fifth_step">Μπορείτε επίσης να κοινοποιήσετε την αποθηκευμένη κατάσταση σε άλλες πλατφόρμες κοινωνικών δικτύων.</string>
+    <string name="summary_first_step">Ανοίξτε την εφαρμογή WhatsApp.</string>
+    <string name="summary_fourth_step">Πατήστε το κουμπί ή το εικονίδιο λήψης για να αποθηκεύσετε οποιαδήποτε κατάσταση επιθυμείτε.</string>
+    <string name="summary_second_step">Δείτε τις ενημερώσεις κατάστασης των επαφών σας στο WhatsApp.</string>
+    <string name="summary_third_step">Επιστρέψτε στην εφαρμογή Status Saver for WhatsApp, και όλες οι καταστάσεις που έχετε δει θα εμφανιστούν.</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+</resources>

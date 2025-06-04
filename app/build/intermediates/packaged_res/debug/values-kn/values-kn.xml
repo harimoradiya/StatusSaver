@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">ಕುರಿತು</string>
+    <string name="agree">ಒಪ್ಪುತ್ತೇನೆ</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>ಸೇವಾ ನಿಯಮಗಳು</u></i> ಮತ್ತು <i><u>ಗೌಪ್ಯತೆ ನೀತಿ</u></i> ಬ್ರೌಸ್ ಮಾಡಿ</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">ಮುಂದುವರಿಯಲು ನಮ್ಮ ಸೇವಾ ನಿಯಮಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ಓದಿ ಮತ್ತು ಒಪ್ಪಿಕೊಳ್ಳಿ.</string>
+    <string name="close">ಮುಚ್ಚಿ</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="disclaimer">ಹಕ್ಕುತ್ಯಾಗ</string>
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="help">ಹೇಗೆ ಬಳಸುವುದು?</string>
+    <string name="home">ಸ್ಥಿತಿ</string>
+    <string name="how_to_use">ಹೇಗೆ ಬಳಸುವುದು?</string>
+    <string name="no_data_error">ಇನ್ನೂ ಯಾವುದೇ ಚಿತ್ರಗಳು ಕಂಡುಬಂದಿಲ್ಲ!</string>
+    <string name="privacy_policy">ಗೌಪ್ಯತೆ ನೀತಿ</string>
+    <string name="rate_us">ನಮಗೆ ರೇಟಿಂಗ್ ನೀಡಿ</string>
+    <string name="repost">ರೀಪೋಸ್ಟ್</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="saved_status">ಉಳಿಸಿದ ಸ್ಥಿತಿಗಳು</string>
+    <string name="send">ಕಳುಹಿಸಿ</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="share">ಹಂಚಿ</string>
+    <string name="step1">ಹಂತ 1</string>
+    <string name="step2">ಹಂತ 2</string>
+    <string name="step3">ಹಂತ 3</string>
+    <string name="step4">ಹಂತ 4</string>
+    <string name="step5">ಹಂತ 5</string>
+    <string name="summary_close">ನೀವು ನಿಜವಾಗಿಯೂ ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ನಿರ್ಗಮಿಸಲು ಬಯಸುವಿರಾ?</string>
+    <string name="summary_fifth_step">ನೀವು ಉಳಿಸಿದ ಸ್ಥಿತಿಯನ್ನು ಇತರ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳಲ್ಲಿಯೂ ಹಂಚಿಕೊಳ್ಳಬಹುದು.</string>
+    <string name="summary_first_step">ವಾಟ್ಸಾಪ್ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ.</string>
+    <string name="summary_fourth_step">ಯಾವುದೇ ಸ್ಥಿತಿಯನ್ನು ಉಳಿಸಲು ಡೌನ್‌ಲೋಡ್ ಬಟನ್ ಅಥವಾ ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.</string>
+    <string name="summary_second_step">ನಿಮ್ಮ ವಾಟ್ಸಾಪ್ ಸಂಪರ್ಕಗಳ ಸ್ಥಿತಿ ನವೀಕರಣಗಳನ್ನು ವೀಕ್ಷಿಸಿ.</string>
+    <string name="summary_third_step">ವಾಟ್ಸಾಪ್‌ಗಾಗಿ ಸ್ಥಿತಿ ಸೇವರ್ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಹಿಂತಿರುಗಿ, ಮತ್ತು ವೀಕ್ಷಿಸಿದ ಎಲ್ಲಾ ಸ್ಥಿತಿಗಳು ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತವೆ.</string>
+    <string name="whatsapp">ವಾಟ್ಸಾಪ್</string>
+    <string name="whatsapp_business">ವಾಟ್ಸಾಪ್ ಬಿಸಿನೆಸ್</string>
+</resources>

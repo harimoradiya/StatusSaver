@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">గురించి</string>
+    <string name="agree">అంగీకరిస్తున్నాను</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>సేవా నిబంధనలు</u></i> మరియు <i><u>గోప్యతా విధానం</u></i> బ్రౌజ్ చేయండి</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">కొనసాగించడానికి మా సేవా నిబంధనలు మరియు గోప్యతా విధానాన్ని చదివి అంగీకరించండి.</string>
+    <string name="close">మూసివేయి</string>
+    <string name="delete">తొలగించు</string>
+    <string name="disclaimer">నిరాకరణ</string>
+    <string name="feedback">అభిప్రాయం</string>
+    <string name="help">ఎలా ఉపయోగించాలి?</string>
+    <string name="home">స్టేటస్</string>
+    <string name="how_to_use">ఎలా ఉపయోగించాలి?</string>
+    <string name="no_data_error">ఇంకా చిత్రాలు ఏవీ కనుగొనబడలేదు!</string>
+    <string name="privacy_policy">గోప్యతా విధానం</string>
+    <string name="rate_us">మాకు రేటింగ్ ఇవ్వండి</string>
+    <string name="repost">రీపోస్ట్</string>
+    <string name="save">సేవ్ చేయి</string>
+    <string name="saved_status">సేవ్ చేసిన స్టేటస్‌లు</string>
+    <string name="send">పంపు</string>
+    <string name="settings">సెట్టింగ్‌లు</string>
+    <string name="share">షేర్ చేయి</string>
+    <string name="step1">దశ 1</string>
+    <string name="step2">దశ 2</string>
+    <string name="step3">దశ 3</string>
+    <string name="step4">దశ 4</string>
+    <string name="step5">దశ 5</string>
+    <string name="summary_close">మీరు నిజంగా అప్లికేషన్ నుండి నిష్క్రమించాలనుకుంటున్నారా?</string>
+    <string name="summary_fifth_step">మీరు సేవ్ చేసిన స్టేటస్‌ని ఇతర సోషల్ మీడియా ప్లాట్‌ఫారమ్‌లలో కూడా షేర్ చేయవచ్చు.</string>
+    <string name="summary_first_step">వాట్సాప్ అప్లికేషన్‌ని తెరవండి.</string>
+    <string name="summary_fourth_step">ఏదైనా స్టేటస్‌ని సేవ్ చేయడానికి డౌన్‌లోడ్ బటన్ లేదా ఐకాన్‌పై క్లిక్ చేయండి.</string>
+    <string name="summary_second_step">మీ వాట్సాప్ కాంటాక్ట్‌ల స్టేటస్ అప్‌డేట్‌లను చూడండి.</string>
+    <string name="summary_third_step">వాట్సాప్ కోసం స్టేటస్ సేవర్ అప్లికేషన్‌కి తిరిగి రండి, మరియు చూసిన అన్ని స్టేటస్‌లు ప్రదర్శించబడతాయి.</string>
+    <string name="whatsapp">వాట్సాప్</string>
+    <string name="whatsapp_business">వాట్సాప్ బిజినెస్</string>
+</resources>
