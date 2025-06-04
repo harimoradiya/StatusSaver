@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">ਸਟੇਟਸ</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਾਡੀਆਂ ਸੇਵਾ ਸ਼ਰਤਾਂ ਅਤੇ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਸਹਿਮਤ ਹੋਵੋ।</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>ਸੇਵਾ ਸ਼ਰਤਾਂ</u></i> ਅਤੇ <i><u>ਗੋਪਨੀਯਤਾ ਨੀਤੀ</u></i> ਬ੍ਰਾਊਜ਼ ਕਰੋ</string>
+    <string name="agree">ਸਹਿਮਤ</string>
+    <string name="settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="about">ਬਾਰੇ</string>
+    <string name="privacy_policy">ਗੋਪਨੀਯਤਾ ਨੀਤੀ</string>
+    <string name="feedback">ਫੀਡਬੈਕ</string>
+    <string name="disclaimer">ਅਸਵੀਕਾਰ</string>
+    <string name="close">ਬੰਦ ਕਰੋ</string>
+    <string name="summary_close">ਕੀ ਤੁਸੀਂ ਸੱਚਮੁੱਚ ਐਪਲੀਕੇਸ਼ਨ ਤੋਂ ਬਾਹਰ ਨਿਕਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="saved_status">ਸੇਵ ਕੀਤੇ ਸਟੇਟਸ</string>
+    <string name="help">ਕਿਵੇਂ ਵਰਤੀਏ?</string>
+    <string name="whatsapp">ਵਟਸਐਪ</string>
+    <string name="whatsapp_business">ਵਟਸਐਪ ਬਿਜ਼ਨਸ</string>
+    <string name="save">ਸੇਵ ਕਰੋ</string>
+    <string name="share">ਸ਼ੇਅਰ ਕਰੋ</string>
+    <string name="delete">ਮਿਟਾਓ</string>
+    <string name="repost">ਰੀਪੋਸਟ</string>
+    <string name="no_data_error">ਅਜੇ ਤੱਕ ਕੋਈ ਤਸਵੀਰਾਂ ਨਹੀਂ ਮਿਲੀਆਂ!</string>
+    <string name="send">ਭੇਜੋ</string>
+    <string name="how_to_use">ਕਿਵੇਂ ਵਰਤੀਏ?</string>
+    <string name="step1">ਪੜਾਅ 1</string>
+    <string name="summary_first_step">ਵਟਸਐਪ ਐਪ ਖੋਲ੍ਹੋ।</string>
+    <string name="step2">ਪੜਾਅ 2</string>
+    <string name="summary_second_step">ਆਪਣੇ ਵਟਸਐਪ ਸੰਪਰਕਾਂ ਦੇ ਸਟੇਟਸ ਅਪਡੇਟ ਦੇਖੋ।</string>
+    <string name="step3">ਪੜਾਅ 3</string>
+    <string name="summary_third_step">ਵਟਸਐਪ ਲਈ ਸਟੇਟਸ ਸੇਵਰ ਐਪ \'ਤੇ ਵਾਪਸ ਆਓ, ਅਤੇ ਦੇਖੇ ਗਏ ਸਾਰੇ ਸਟੇਟਸ ਦਿਖਾਏ ਜਾਣਗੇ।</string>
+    <string name="step4">ਪੜਾਅ 4</string>
+    <string name="summary_fourth_step">ਕਿਸੇ ਵੀ ਸਟੇਟਸ ਨੂੰ ਸੇਵ ਕਰਨ ਲਈ ਡਾਊਨਲੋਡ ਬਟਨ ਜਾਂ ਆਈਕਨ \'ਤੇ ਕਲਿੱਕ ਕਰੋ।</string>
+    <string name="step5">ਪੜਾਅ 5</string>
+    <string name="summary_fifth_step">ਤੁਸੀਂ ਸੇਵ ਕੀਤੇ ਸਟੇਟਸ ਨੂੰ ਹੋਰ ਸੋਸ਼ਲ ਮੀਡੀਆ ਪਲੇਟਫਾਰਮਾਂ \'ਤੇ ਵੀ ਸ਼ੇਅਰ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="rate_us">ਸਾਨੂੰ ਰੇਟ ਕਰੋ</string>
+</resources>

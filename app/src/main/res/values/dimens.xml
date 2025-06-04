@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="small_margin1">8dp</dimen>
+    <dimen name="text_tiny2">9dp</dimen>
+    <dimen name="big_corners_radius">10dp</dimen>
+    <dimen name="small_margin">5dp</dimen>
+    <dimen name="big_margin">20dp</dimen>
+    <dimen name="text_small3">13dp</dimen>
+    <dimen name="normal_margin">10dp</dimen>
+    <dimen name="normal_margin1">15dp</dimen>
+    <dimen name="normal_margin2">12dp</dimen>
+    <dimen name="normal_margin3">18dp</dimen>
+    <dimen name="normal_padding">10dp</dimen>
+    <dimen name="normal_padding1">15dp</dimen>
+    <dimen name="normal_padding2">12dp</dimen>
+    <dimen name="tiny_margin">3dp</dimen>
+    <dimen name="tiny_margin1">2dp</dimen>
+    <dimen name="tiny_margin2">1dp</dimen>
+    <dimen name="tiny_padding">3dp</dimen>
+    <dimen name="tiny_padding1">2dp</dimen>
+    <dimen name="tiny_padding2">1dp</dimen>
+    <dimen name="tiny_padding3">4dp</dimen>
+    <dimen name="tiny_padding4">2.5dp</dimen>
+    <dimen name="small_padding">5dp</dimen>
+    <dimen name="small_padding1">8dp</dimen>
+    <dimen name="small_padding2">6dp</dimen>
+    <dimen name="small_padding3">7dp</dimen>
+    <dimen name="small_padding4">9dp</dimen>
+    <dimen name="small_image_size">22dp</dimen>
+    <dimen name="small_image_size_2">25dp</dimen>
+    <dimen name="small_image_size_3">28dp</dimen>
+    <dimen name="text_normal">14dp</dimen>
+    <dimen name="text_tiny">10dp</dimen>
+</resources>

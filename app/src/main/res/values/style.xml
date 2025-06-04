@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NoActionBar.AdAttribution2" parent="@style/AppTheme">
+        <item name="android:textSize">@dimen/text_tiny2</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_gravity">clip_vertical</item>
+        <item name="android:background">@drawable/bg_ad_attribution</item>
+        <item name="android:paddingLeft">@dimen/tiny_padding1</item>
+        <item name="android:paddingTop">@dimen/tiny_padding2</item>
+        <item name="android:paddingRight">@dimen/tiny_padding1</item>
+        <item name="android:paddingBottom">@dimen/tiny_padding2</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/ad_attribution</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="Theme.SplashScreen" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/icon</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+
+    <style name="SplashTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@drawable/static_splash_screen</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+
+    <style name="CircleImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

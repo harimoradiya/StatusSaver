@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Status</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Basahin at tanggapin ang aming Mga Tuntunin ng Serbisyo at Patakaran sa Privacy upang magpatuloy.</string>
+    <string name="browse_terms_of_service_and_privacy_policy">Tingnan ang <i><u>Mga Tuntunin ng Serbisyo</u></i> at <i><u>Patakaran sa Privacy</u></i></string>
+    <string name="agree">Tanggapin</string>
+    <string name="settings">Mga Setting</string>
+    <string name="about">Tungkol sa</string>
+    <string name="privacy_policy">Patakaran sa Privacy</string>
+    <string name="feedback">Feedback</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="close">Isara</string>
+    <string name="summary_close">Sigurado ka bang gusto mong isara ang app?</string>
+    <string name="saved_status">Mga Naka-save na Status</string>
+    <string name="help">Paano Gamitin?</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="save">I-save</string>
+    <string name="share">I-share</string>
+    <string name="delete">Burahin</string>
+    <string name="repost">I-repost</string>
+    <string name="no_data_error">Wala pang nakitang mga larawan!</string>
+    <string name="send">Ipadala</string>
+    <string name="how_to_use">Paano Gamitin?</string>
+    <string name="step1">Hakbang 1</string>
+    <string name="summary_first_step">Buksan ang WhatsApp app.</string>
+    <string name="step2">Hakbang 2</string>
+    <string name="summary_second_step">Tingnan ang mga status update ng iyong mga WhatsApp contact.</string>
+    <string name="step3">Hakbang 3</string>
+    <string name="summary_third_step">Bumalik sa Status Saver for WhatsApp app, at lahat ng mga status na iyong tiningnan ay ipapakita.</string>
+    <string name="step4">Hakbang 4</string>
+    <string name="summary_fourth_step">I-tap ang download button o icon para i-save ang anumang status na gusto mo.</string>
+    <string name="step5">Hakbang 5</string>
+    <string name="summary_fifth_step">Maaari mo ring i-share ang naka-save na status sa ibang social media platform.</string>
+    <string name="rate_us">I-rate Kami</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">સ્ટેટસ</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">ચાલુ રાખવા માટે અમારી સેવાની શરતો અને ગોપનીયતા નીતિ વાંચો અને સંમત થાઓ.</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>સેવાની શરતો</u></i> અને <i><u>ગોપનીયતા નીતિ</u></i> બ્રાઉઝ કરો</string>
+    <string name="agree">સંમત</string>
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="about">વિશે</string>
+    <string name="privacy_policy">ગોપનીયતા નીતિ</string>
+    <string name="feedback">પ્રતિસાદ</string>
+    <string name="disclaimer">અસ્વીકરણ</string>
+    <string name="close">બંધ કરો</string>
+    <string name="summary_close">શું તમે ખરેખર એપ્લિકેશનમાંથી બહાર નીકળવા માંગો છો?</string>
+    <string name="saved_status">સાચવેલા સ્ટેટસ</string>
+    <string name="help">કેવી રીતે વાપરવું?</string>
+    <string name="whatsapp">વોટ્સએપ</string>
+    <string name="whatsapp_business">વોટ્સએપ બિઝનેસ</string>
+    <string name="save">સાચવો</string>
+    <string name="share">શેર કરો</string>
+    <string name="delete">કાઢી નાખો</string>
+    <string name="repost">રીપોસ્ટ</string>
+    <string name="no_data_error">હજુ સુધી કોઈ છબીઓ મળી નથી!</string>
+    <string name="send">મોકલો</string>
+    <string name="how_to_use">કેવી રીતે વાપરવું?</string>
+    <string name="step1">પગલું 1</string>
+    <string name="summary_first_step">વોટ્સએપ એપ ખોલો.</string>
+    <string name="step2">પગલું 2</string>
+    <string name="summary_second_step">તમારા વોટ્સએપ કોન્ટેક્ટના સ્ટેટસ અપડેટ્સ જુઓ.</string>
+    <string name="step3">પગલું 3</string>
+    <string name="summary_third_step">વોટ્સએપ માટે સ્ટેટસ સેવર એપ પર પાછા આવો, અને બધા જોયેલા સ્ટેટસ દેખાશે.</string>
+    <string name="step4">પગલું 4</string>
+    <string name="summary_fourth_step">કોઈપણ સ્ટેટસ સાચવવા માટે ડાઉનલોડ બટન અથવા આઇકન પર ક્લિક કરો.</string>
+    <string name="step5">પગલું 5</string>
+    <string name="summary_fifth_step">તમે સાચવેલા સ્ટેટસને અન્ય સોશિયલ મીડિયા પ્લેટફોર્મ્સ પર પણ શેર કરી શકો છો.</string>
+    <string name="rate_us">અમને રેટ કરો</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">الحالة</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">اقرأ شروط الخدمة وسياسة الخصوصية الخاصة بنا ووافق عليها للمتابعة.</string>
+    <string name="browse_terms_of_service_and_privacy_policy">تصفح <i><u>شروط الخدمة</u></i> و <i><u>سياسة الخصوصية</u></i></string>
+    <string name="agree">موافق</string>
+    <string name="settings">الإعدادات</string>
+    <string name="about">حول</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="feedback">التعليقات</string>
+    <string name="disclaimer">إخلاء المسؤولية</string>
+    <string name="close">إغلاق</string>
+    <string name="summary_close">هل أنت متأكد من أنك تريد الخروج من التطبيق؟</string>
+    <string name="saved_status">الحالات المحفوظة</string>
+    <string name="help">كيفية الاستخدام؟</string>
+    <string name="whatsapp">واتساب</string>
+    <string name="whatsapp_business">واتساب للأعمال</string>
+    <string name="save">حفظ</string>
+    <string name="share">مشاركة</string>
+    <string name="delete">حذف</string>
+    <string name="repost">إعادة النشر</string>
+    <string name="no_data_error">لم يتم العثور على أي صور حتى الآن!</string>
+    <string name="send">إرسال</string>
+    <string name="how_to_use">كيفية الاستخدام؟</string>
+    <string name="step1">الخطوة 1</string>
+    <string name="summary_first_step">افتح تطبيق واتساب.</string>
+    <string name="step2">الخطوة 2</string>
+    <string name="summary_second_step">شاهد تحديثات الحالة لجهات اتصال واتساب الخاصة بك.</string>
+    <string name="step3">الخطوة 3</string>
+    <string name="summary_third_step">عد إلى تطبيق حافظ الحالة لواتساب، وسيتم عرض جميع الحالات التي تمت مشاهدتها.</string>
+    <string name="step4">الخطوة 4</string>
+    <string name="summary_fourth_step">انقر على زر أو أيقونة التحميل لحفظ أي حالة تريدها.</string>
+    <string name="step5">الخطوة 5</string>
+    <string name="summary_fifth_step">يمكنك أيضًا مشاركة الحالة المحفوظة على منصات التواصل الاجتماعي الأخرى.</string>
+    <string name="rate_us">قيمنا</string>
+</resources>

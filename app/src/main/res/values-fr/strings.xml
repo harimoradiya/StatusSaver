@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Statut</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Lisez et acceptez nos Conditions d\'utilisation et notre Politique de confidentialité pour continuer.</string>
+    <string name="browse_terms_of_service_and_privacy_policy">Parcourir les <i><u>Conditions d\'utilisation</u></i> et la <i><u>Politique de confidentialité</u></i></string>
+    <string name="agree">Accepter</string>
+    <string name="settings">Paramètres</string>
+    <string name="about">À propos</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="feedback">Commentaires</string>
+    <string name="disclaimer">Avis de non-responsabilité</string>
+    <string name="close">Fermer</string>
+    <string name="summary_close">Êtes-vous sûr de vouloir quitter l\'application ?</string>
+    <string name="saved_status">Statuts enregistrés</string>
+    <string name="help">Comment utiliser ?</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="save">Enregistrer</string>
+    <string name="share">Partager</string>
+    <string name="delete">Supprimer</string>
+    <string name="repost">Republier</string>
+    <string name="no_data_error">Aucune image n\'a encore été trouvée !</string>
+    <string name="send">Envoyer</string>
+    <string name="how_to_use">Comment utiliser ?</string>
+    <string name="step1">Étape 1</string>
+    <string name="summary_first_step">Ouvrez l\'application WhatsApp.</string>
+    <string name="step2">Étape 2</string>
+    <string name="summary_second_step">Regardez les mises à jour de statut de vos contacts WhatsApp.</string>
+    <string name="step3">Étape 3</string>
+    <string name="summary_third_step">Revenez à l\'application Status Saver pour WhatsApp, et tous les statuts visualisés seront affichés.</string>
+    <string name="step4">Étape 4</string>
+    <string name="summary_fourth_step">Cliquez sur le bouton ou l\'icône de téléchargement pour enregistrer n\'importe quel statut souhaité.</string>
+    <string name="step5">Étape 5</string>
+    <string name="summary_fifth_step">Vous pouvez également partager le statut enregistré sur d\'autres plateformes de médias sociaux.</string>
+    <string name="rate_us">Évaluez-nous</string>
+</resources>

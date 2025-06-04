@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Status</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Lesen und akzeptieren Sie unsere Nutzungsbedingungen und Datenschutzrichtlinie, um fortzufahren.</string>
+    <string name="browse_terms_of_service_and_privacy_policy">Durchsuchen Sie die <i><u>Nutzungsbedingungen</u></i> und die <i><u>Datenschutzrichtlinie</u></i></string>
+    <string name="agree">Zustimmen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="about">Über</string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+    <string name="feedback">Feedback</string>
+    <string name="disclaimer">Haftungsausschluss</string>
+    <string name="close">Schließen</string>
+    <string name="summary_close">Möchten Sie die Anwendung wirklich beenden?</string>
+    <string name="saved_status">Gespeicherte Status</string>
+    <string name="help">Wie benutzt man es?</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="save">Speichern</string>
+    <string name="share">Teilen</string>
+    <string name="delete">Löschen</string>
+    <string name="repost">Erneut posten</string>
+    <string name="no_data_error">Es wurden noch keine Bilder gefunden!</string>
+    <string name="send">Senden</string>
+    <string name="how_to_use">Wie benutzt man es?</string>
+    <string name="step1">Schritt 1</string>
+    <string name="summary_first_step">Öffnen Sie die WhatsApp-App.</string>
+    <string name="step2">Schritt 2</string>
+    <string name="summary_second_step">Schauen Sie sich die Status-Updates Ihrer WhatsApp-Kontakte an.</string>
+    <string name="step3">Schritt 3</string>
+    <string name="summary_third_step">Kehren Sie zur Status Saver für WhatsApp-App zurück, und alle angesehenen Status werden angezeigt.</string>
+    <string name="step4">Schritt 4</string>
+    <string name="summary_fourth_step">Klicken Sie auf die Download-Schaltfläche oder das Symbol, um einen beliebigen Status zu speichern.</string>
+    <string name="step5">Schritt 5</string>
+    <string name="summary_fifth_step">Sie können den gespeicherten Status auch auf anderen Social-Media-Plattformen teilen.</string>
+    <string name="rate_us">Bewerten Sie uns</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Durum</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">Devam etmek için Hizmet Şartlarımızı ve Gizlilik Politikamızı okuyup kabul edin.</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>Hizmet Şartları</u></i> ve <i><u>Gizlilik Politikası</u></i>nı inceleyin</string>
+    <string name="agree">Kabul Et</string>
+    <string name="settings">Ayarlar</string>
+    <string name="about">Hakkında</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="feedback">Geri Bildirim</string>
+    <string name="disclaimer">Yasal Uyarı</string>
+    <string name="close">Kapat</string>
+    <string name="summary_close">Uygulamadan çıkmak istediğinizden emin misiniz?</string>
+    <string name="saved_status">Kaydedilen Durumlar</string>
+    <string name="help">Nasıl Kullanılır?</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="save">Kaydet</string>
+    <string name="share">Paylaş</string>
+    <string name="delete">Sil</string>
+    <string name="repost">Yeniden Paylaş</string>
+    <string name="no_data_error">Henüz resim bulunamadı!</string>
+    <string name="send">Gönder</string>
+    <string name="how_to_use">Nasıl Kullanılır?</string>
+    <string name="step1">Adım 1</string>
+    <string name="summary_first_step">WhatsApp uygulamasını açın.</string>
+    <string name="step2">Adım 2</string>
+    <string name="summary_second_step">WhatsApp kişilerinizin durum güncellemelerini görüntüleyin.</string>
+    <string name="step3">Adım 3</string>
+    <string name="summary_third_step">WhatsApp Status Saver uygulamasına geri dönün, görüntülenen tüm durumlar gösterilecektir.</string>
+    <string name="step4">Adım 4</string>
+    <string name="summary_fourth_step">İstediğiniz durumu kaydetmek için indirme düğmesine veya simgesine dokunun.</string>
+    <string name="step5">Adım 5</string>
+    <string name="summary_fifth_step">Kaydedilen durumu diğer sosyal medya platformlarında da paylaşabilirsiniz.</string>
+    <string name="rate_us">Bizi Değerlendirin</string>
+</resources>

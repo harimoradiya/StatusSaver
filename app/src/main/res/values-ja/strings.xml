@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">ステータス</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">続行するには、利用規約とプライバシーポリシーをお読みいただき、同意してください。</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>利用規約</u></i>と<i><u>プライバシーポリシー</u></i>を確認</string>
+    <string name="agree">同意する</string>
+    <string name="settings">設定</string>
+    <string name="about">アプリについて</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="feedback">フィードバック</string>
+    <string name="disclaimer">免責事項</string>
+    <string name="close">閉じる</string>
+    <string name="summary_close">アプリを終了してもよろしいですか？</string>
+    <string name="saved_status">保存したステータス</string>
+    <string name="help">使い方</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_business">WhatsApp Business</string>
+    <string name="save">保存</string>
+    <string name="share">共有</string>
+    <string name="delete">削除</string>
+    <string name="repost">再投稿</string>
+    <string name="no_data_error">まだ画像が見つかりません！</string>
+    <string name="send">送信</string>
+    <string name="how_to_use">使い方</string>
+    <string name="step1">ステップ1</string>
+    <string name="summary_first_step">WhatsAppアプリを開きます。</string>
+    <string name="step2">ステップ2</string>
+    <string name="summary_second_step">WhatsAppの連絡先のステータス更新を表示します。</string>
+    <string name="step3">ステップ3</string>
+    <string name="summary_third_step">WhatsApp Status Saverアプリに戻ると、表示したすべてのステータスが表示されます。</string>
+    <string name="step4">ステップ4</string>
+    <string name="summary_fourth_step">保存したいステータスのダウンロードボタンまたはアイコンをタップします。</string>
+    <string name="step5">ステップ5</string>
+    <string name="summary_fifth_step">保存したステータスを他のソーシャルメディアプラットフォームでも共有できます。</string>
+    <string name="rate_us">評価する</string>
+</resources>

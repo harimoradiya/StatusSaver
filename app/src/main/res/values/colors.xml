@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorLauncherBackground">#FFFFFF</color>
+    <color name="colorIconShortcutBackground">#C1E8FF</color>
+    <color name="colorIconShortcutForeground">#454749</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="goodGray">#959595</color>
+    <color name="goodGraySemiTranslucent">#c5959595</color>
+    <color name="goodGrayTranslucent">#66959595</color>
+    <color name="goodGrayTotalTranslucent">#3f959595</color>
+    <color name="colorBlueGrey1">#eceff1</color>
+</resources>

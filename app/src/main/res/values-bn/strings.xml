@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">স্ট্যাটাস</string>
+    <string name="browse_terms_of_service_and_privacy_policy_sum">চালিয়ে যাওয়ার জন্য আমাদের পরিষেবার শর্তাবলী এবং গোপনীয়তা নীতি পড়ুন এবং সম্মত হন।</string>
+    <string name="browse_terms_of_service_and_privacy_policy"><i><u>পরিষেবার শর্তাবলী</u></i> এবং <i><u>গোপনীয়তা নীতি</u></i> দেখুন</string>
+    <string name="agree">সম্মত</string>
+    <string name="settings">সেটিংস</string>
+    <string name="about">সম্পর্কে</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="feedback">প্রতিক্রিয়া</string>
+    <string name="disclaimer">দায়বন্ধনের অস্বীকৃতি</string>
+    <string name="close">বন্ধ করুন</string>
+    <string name="summary_close">আপনি কি নিশ্চিত যে আপনি অ্যাপ্লিকেশন থেকে প্রস্থান করতে চান?</string>
+    <string name="saved_status">সংরক্ষিত স্ট্যাটাস</string>
+    <string name="help">কিভাবে ব্যবহার করবেন?</string>
+    <string name="whatsapp">হোয়াটসঅ্যাপ</string>
+    <string name="whatsapp_business">হোয়াটসঅ্যাপ বিজনেস</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="share">শেয়ার করুন</string>
+    <string name="delete">মুছে ফেলুন</string>
+    <string name="repost">রিপোস্ট</string>
+    <string name="no_data_error">এখনও কোন ছবি পাওয়া যায়নি!</string>
+    <string name="send">পাঠান</string>
+    <string name="how_to_use">কিভাবে ব্যবহার করবেন?</string>
+    <string name="step1">ধাপ ১</string>
+    <string name="summary_first_step">হোয়াটসঅ্যাপ অ্যাপ খুলুন।</string>
+    <string name="step2">ধাপ ২</string>
+    <string name="summary_second_step">আপনার হোয়াটসঅ্যাপ কন্টাক্টের স্ট্যাটাস আপডেট দেখুন।</string>
+    <string name="step3">ধাপ ৩</string>
+    <string name="summary_third_step">হোয়াটসঅ্যাপের জন্য স্ট্যাটাস সেভার অ্যাপে ফিরে আসুন, এবং সমস্ত দেখা স্ট্যাটাস প্রদর্শিত হবে।</string>
+    <string name="step4">ধাপ ৪</string>
+    <string name="summary_fourth_step">যে কোনো স্ট্যাটাস সংরক্ষণ করতে ডাউনলোড বাটন বা আইকনে ক্লিক করুন।</string>
+    <string name="step5">ধাপ ৫</string>
+    <string name="summary_fifth_step">আপনি সংরক্ষিত স্ট্যাটাস অন্যান্য সোশ্যাল মিডিয়া প্ল্যাটফর্মেও শেয়ার করতে পারেন।</string>
+    <string name="rate_us">আমাদের রেটিং দিন</string>
+</resources>
