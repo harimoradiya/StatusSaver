@@ -41,10 +41,10 @@ To get started with Status Saver, follow these simple steps:
 
 ## Screenshots
 
-| Mouse Screen | Keyboard Screen | Apps Screen |
+| Home Screen | Status View | Direct Chat |
 |-------------|-------------|-------------|
-| ![Mouse Screen](![1743239211113](https://github.com/user-attachments/assets/86a052b4-01d8-420f-a742-071bdcdee65b))
-) | ![Keyboard Screen](https://github.com/user-attachments/assets/d320bd37-b3fe-4ff1-88b2-73123d9f5441) | ![Apps Screen](![1743239211482](https://github.com/user-attachments/assets/8d6baefa-2bd9-4706-a476-72657530353f)) |
+| ![Home Screen](Screenshot_20230325_133602.png)
+) | ![Status View](Screenshot_20230325_134955.png) | ![Direct Chat](Screenshot_20230325_135104.png) |
 
 
 
